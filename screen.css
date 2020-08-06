@@ -1,0 +1,27 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    background-color:orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+resume{border:1px solid;
+}
+.objective p
+{line-height:1.6;}
+.objective, .education
+{border-bottom:2px solid lightseagreen;}
+
+.objective h2, education h2, certificate h2{
+    color:lightseagreen;
+}
+img{float: left;
+padding-right:3%}
+button{float: left;}
+h2, h3, h4, h5, h6
+{color:white; text-align: justify; background-color:darkblue; padding-left:10%; 
+    background-color: grey; color: honeydew;
+    padding-right:20%;}
+div{float: left;}
+body{color=white;}
+h3{text-align: justify;}
